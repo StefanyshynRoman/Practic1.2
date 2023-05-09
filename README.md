@@ -1,4 +1,4 @@
-Compile a jar with maven and run a program that prints json of this type exactly as a jar
+Compile a jar with maven and run a program that prints json of this type exactly as a jar /n
 {“message”: “Hello <text from external property file, property username=Your name> !”}
 Use the jackson-databind library
 Add a system option that switches the output to xml/json format.
